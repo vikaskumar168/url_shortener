@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# Built files
+dist/
+dist-ssr/
+
+# Environment-specific files
+*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Operating system-specific files
+.DS_Store
+
+# Node.js package manager files
+package-lock.json
+yarn.lock
+
+# Editor or IDE specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
